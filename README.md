@@ -1,4 +1,4 @@
-## Oiii eu sou Jean Carvalho, estudante de Análise de Sistemas!
+## Olá! Eu sou Jean Carvalho, estudante de Análise de Sistemas!
 
 <div>
   <a href="https://github.com/boxcarvalho">
